@@ -9,8 +9,6 @@
 #undef write
 #include <vector>
 
-#include <openssl/ssl.h>
-
 #include "util.hpp"
 
 #include "ConnectionContext.hpp"
