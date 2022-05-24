@@ -4,8 +4,6 @@
 #include <Arduino.h>
 #include <IPAddress.h>
 
-// Required for SSL
-#include "openssl/ssl.h"
 #undef read
 
 namespace httpsserver {
